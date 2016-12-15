@@ -8,6 +8,7 @@
 
 import Foundation
 import RealmSwift
+import UIKit
 
 /**
  HighlightStyle type, default is .Yellow.
